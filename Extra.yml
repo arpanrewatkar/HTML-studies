@@ -1,0 +1,31 @@
+html
+css
+Bootstrap
+JavaScript (JS)
+
+Course Weightage
+Profile website -> 30%
+Class performance -> 20%
+Final project - 50%
+
+HTML -> Structure
+CSS -> Styling and designing
+Bootstrap -> Web & mobile responsiveness
+JavaScript -> Logic
+Every website in the world, is being built by HTML, CSS & JS.
+
+html > Wrapper tag
+head > connection (css, js)
+body > all the content that is visible to user
+
+block level > //important concept
+> always start from a new line. It will take the whole width of the screen
+> p, div, header, footer etc
+
+inline //important concept
+> start in the same line
+> only take the width which is required
+> img, a, span
+HTML tags - don't have any logic
+HTML5 - just few new tags are being introduced, rest is all same.
+Break tag - must not be used much because it breaks the responsiveness of the page, thus not recommended.
